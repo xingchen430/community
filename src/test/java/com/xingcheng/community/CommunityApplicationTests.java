@@ -1,4 +1,4 @@
-package com.xingcheng.community.community;
+package com.xingcheng.community;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
